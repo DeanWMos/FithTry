@@ -1,0 +1,34 @@
+.header {
+  grid-area: header;
+  background-color: #FFFAFB;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.p1 {
+font-family: Georgia, serif;
+  font-size: 16px;
+  color: black;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    margin-bottom: 15px;
+  }
+
+ .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    position: sticky;
+    text-decoration: none;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
