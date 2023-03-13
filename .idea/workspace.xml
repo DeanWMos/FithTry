@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7f949cc-8f29-41c1-a1d1-26094cf1f500" name="Changes" comment="added css and html, subject to change">
-      <change afterPath="$PROJECT_DIR$/.idea/home/about/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/home/about/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/about/styleB.css" beforeDir="false" />
+    <list default="true" id="b7f949cc-8f29-41c1-a1d1-26094cf1f500" name="Changes" comment="added characters to the nav bar, updated 'about' header">
       <change beforePath="$PROJECT_DIR$/.idea/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/home/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/home/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/home/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676062826796</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added characters to the nav bar, updated 'about' header">
+      <created>1676961955231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676961955231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added css and html, subject to change" />
-    <option name="LAST_COMMIT_MESSAGE" value="added css and html, subject to change" />
+    <MESSAGE value="added characters to the nav bar, updated 'about' header" />
+    <option name="LAST_COMMIT_MESSAGE" value="added characters to the nav bar, updated 'about' header" />
   </component>
 </project>
