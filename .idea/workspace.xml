@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7f949cc-8f29-41c1-a1d1-26094cf1f500" name="Changes" comment="created login.html, login.css, and login.js">
+    <list default="true" id="b7f949cc-8f29-41c1-a1d1-26094cf1f500" name="Changes" comment="connected mysql workbench">
+      <change beforePath="$PROJECT_DIR$/.idea/home/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/home/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,18 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/deanw/Desktop/thecitadel&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/deanw/Desktop/thecitadel",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\deanw\Documents\itspronounceddean\FithTry\.idea\home" />
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687319894163</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="connected mysql workbench">
+      <created>1687326598859</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687326598859</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +131,7 @@
     <MESSAGE value="added characters to the nav bar, updated 'about' header" />
     <MESSAGE value="attempting to add user login and reg" />
     <MESSAGE value="created login.html, login.css, and login.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="created login.html, login.css, and login.js" />
+    <MESSAGE value="connected mysql workbench" />
+    <option name="LAST_COMMIT_MESSAGE" value="connected mysql workbench" />
   </component>
 </project>
